@@ -1,0 +1,56 @@
+<svg width="617" height="855" viewBox="0 0 617 855" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_154_785)">
+<rect x="310.872" y="592.488" width="362.64" height="152.14" transform="rotate(-107.65 310.872 592.488)" fill="url(#paint0_linear_154_785)" fill-opacity="0.45"/>
+</g>
+<g filter="url(#filter1_f_154_785)">
+<rect x="424.641" y="654.803" width="362.64" height="152.14" transform="rotate(-107.65 424.641 654.803)" fill="url(#paint1_linear_154_785)" fill-opacity="0.45"/>
+</g>
+<circle cx="243.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="243.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="243.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="243.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<circle cx="291.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="291.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="291.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="291.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<circle cx="339.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="339.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="339.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="339.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<circle cx="387.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="387.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="387.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="387.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<circle cx="435.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="435.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="435.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="435.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<circle cx="482.416" cy="379.146" r="5.5" fill="#00F0FF"/>
+<circle cx="482.416" cy="413.146" r="5.5" fill="#00F0FF"/>
+<circle cx="482.416" cy="481.146" r="5.5" fill="#00F0FF"/>
+<circle cx="482.416" cy="447.146" r="5.5" fill="#00F0FF"/>
+<defs>
+<filter id="filter0_f_154_785" x="0.916504" y="0.789062" width="654.934" height="791.699" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_154_785"/>
+</filter>
+<filter id="filter1_f_154_785" x="114.686" y="63.1035" width="654.934" height="791.699" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_154_785"/>
+</filter>
+<linearGradient id="paint0_linear_154_785" x1="673.512" y1="675.283" x2="337.628" y2="666.015" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0368FF" stop-opacity="0.46"/>
+<stop offset="0.371" stop-color="#7437F6" stop-opacity="0.759"/>
+<stop offset="1" stop-color="#F68DFF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_154_785" x1="787.281" y1="737.597" x2="451.397" y2="728.33" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F5C974" stop-opacity="0.58"/>
+<stop offset="0.225" stop-color="#F237F6" stop-opacity="0.759"/>
+<stop offset="0.2251" stop-color="#F6B537" stop-opacity="0.759"/>
+<stop offset="0.475" stop-color="#0368FF" stop-opacity="0.46"/>
+<stop offset="1" stop-color="#F68DFF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
