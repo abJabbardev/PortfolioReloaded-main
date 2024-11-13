@@ -2221,6 +2221,16 @@ footer .footer-btm a:hover {
 }
 
 @media(max-width :640px) {
+    .hero_bg {
+        overflow: hidden;
+        width: 140%;
+    }
+
+    .hero_bg svg {
+        width: 200%;
+        height: auto;
+    }
+
     footer .footer-nav ul {
         justify-content: center;
     }
