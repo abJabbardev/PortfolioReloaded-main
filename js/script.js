@@ -1,10 +1,35 @@
 // jQuery to add and remove class on scroll
-$(window).on('load', function () {
-  gsap.registerPlugin(ScrollTrigger);
-  // Hide the preloader when the page finishes loading
-  $('.preloader').fadeOut('slow');
-});
+// $(window).on('load', function () {
+//   gsap.registerPlugin(ScrollTrigger);
+//   // Hide the preloader when the page finishes loading
+
+// });
 $(document).ready(function () {
+  const $loader = $(".preloader");
+      const $percentage = $("#percentage");
+      const $progress = $("#progress");
+      const $content = $("body");
+
+      let loadProgress = 0;
+
+      const simulateLoading = setInterval(() => {
+        loadProgress += Math.random() * 10; // Simulate loading speed
+
+        if (loadProgress >= 100) {
+          loadProgress = 100;
+          clearInterval(simulateLoading);
+
+          // Hide the loader and show the content
+          $loader.fadeOut(500, function () {
+            $content.fadeIn(500);
+          });
+        }
+
+        $percentage.text(Math.floor(loadProgress) + "%");
+        $progress.css("width", loadProgress + "%");
+      }, 100); // Update every 100ms
+      
+  
   gsap.registerPlugin(ScrollTrigger);
   $(window).scroll(function () {
     var scroll = $(window).scrollTop();
